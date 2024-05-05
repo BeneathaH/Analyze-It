@@ -111,16 +111,80 @@
     justify-content: center;
     align-items: center;
     min-height: 400px;
-
+   
  }
  #container div{
-    height: 270px;
-    width: 235px;
+    height: 350px;
+    width: 360px;
     background: rgb(51, 163, 67) ;
     margin: 60px;
     text-align: center;
+    color: white;
+    font-size: medium;
+    
+    }
+ h1{
+   font-size: 30px;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
  }
-
+ h2 {
+   font-weight: bold;
+ }
+ * {
+    margin: 0;
+    padding: 0;
+ }
+ .footer{
+   width: 100%;
+   background-color: rgb(50, 110, 171);
+   color: white;
+   height: 300px;
+   display: flex;
+   margin-top: 100px;
+   }
+   .nav-links{
+      width: 33.33%;
+      text-align: center;
+      margin: auto;
+      text-decoration: none;
+   }
+   
+   .NewsletterSignup {
+      width: 33.33%;
+      text-align: center;
+      margin: auto;
+   }
+   .contactus {
+      width: 33.33%;
+      text-align: center;
+      margin: auto;
+   }
+   .NewsletterSignup h2 {
+      margin-top: -55px;
+   }
+   
+    .NewsletterSignup input{
+      margin-top: 10px;
+      border: 2px solid white;
+      border-radius: 20px;
+      padding: 5px;
+   }
+   .contactus h2{
+      margin-top: -30px;
+   }
+   address{
+      margin-top: 5px;
+   }
+   ul li a{
+      font-size: 18px;
+      color: white;
+      
+   }
 
 
  
