@@ -150,6 +150,7 @@
    }
    .nav-links{
       width: 33.33%;
+      border: 2px solid red;
       text-align: center;
       margin: auto;
       }
@@ -162,11 +163,13 @@
    
    .NewsletterSignup {
       width: 33.33%;
+      border: 2px solid red;
       text-align: center;
       margin: auto;
    }
    .contactus {
       width: 33.33%;
+      border: 2px solid red;
       text-align: center;
       margin: auto;
    }
