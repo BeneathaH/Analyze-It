@@ -121,6 +121,7 @@
     text-align: center;
     color: white;
     font-size: medium;
+    border-radius: 10px;
     
     }
  h1{
@@ -150,7 +151,7 @@
    }
    .nav-links{
       width: 33.33%;
-      border: 2px solid red;
+      /* border: 2px solid red; */
       text-align: center;
       margin: auto;
       }
@@ -163,13 +164,13 @@
    
    .NewsletterSignup {
       width: 33.33%;
-      border: 2px solid red;
+      /* border: 2px solid black; */
       text-align: center;
       margin: auto;
    }
    .contactus {
       width: 33.33%;
-      border: 2px solid red;
+      /* border: 2px solid red; */
       text-align: center;
       margin: auto;
    }
