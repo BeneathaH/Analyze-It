@@ -146,12 +146,18 @@
    height: 300px;
    display: flex;
    margin-top: 100px;
+   
    }
    .nav-links{
       width: 33.33%;
       text-align: center;
       margin: auto;
+      }
+   .nav-links a{
       text-decoration: none;
+   }   
+   .nav-links ul li{
+      list-style-type: none;
    }
    
    .NewsletterSignup {
@@ -183,8 +189,11 @@
    ul li a{
       font-size: 18px;
       color: white;
-      
-   }
+      }
+      .Container Personalized{
+         margin-top: 40px;
+      }
+   
 
 
  
